@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="logo.webp" alt="Thmmd Logo" width="180" />
+  <img src="logo.webp" alt="Thmmd Logo" width="420" />
 
   # Thmmd (ثمد) — Technical Documentation
 
